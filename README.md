@@ -5,6 +5,11 @@ Welcome to **Angle & Velocity Challenge**! 🎯 This is a fun and challenging ph
 
 ![Game Preview](https://i.postimg.cc/wB9xLnYS/2024-12-10-111910.png)
 
+## 🎮 Gameplay Details 🎮
+
+- **Operating System**: Windows 🖥️
+- **Controls**: Mouse and Keyboard 🖱️⌨️
+- **Game Type**: 2D Game 🌍
 
 ## 🌟 Key Features 🌟
 
