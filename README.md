@@ -19,6 +19,10 @@ Welcome to **Angle & Velocity Challenge**! 🎯 This is a fun and challenging ph
 - **C# Programming Language** 💻
 - **2D Physics System** 🌌
 
+## 🎮 Demo 🎮
+
+Try the playable demo here: [HitWithSpin Game Demo](https://abo-7mood.itch.io/hitwithspin)
+
 ## ⚙️ Installation ⚙️
 
 1. Clone the repository:
