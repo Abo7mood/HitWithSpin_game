@@ -48,7 +48,7 @@ Try the playable demo here: [HitWithSpin Game Demo](https://abo-7mood.itch.io/hi
 
 This project is licensed under the MIT License - see the LICENSE file for details. ⚖️
 
-#Story of this game 
+# Story of this game 
 --------------------------
 
 ## How I create it? 📖
