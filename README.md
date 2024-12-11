@@ -1,6 +1,6 @@
 
 # Angle & Velocity Challenge 🎯🚀
-
+--------------------------
 Welcome to **Angle & Velocity Challenge**! 🎯 This is a fun and challenging physics-based game where your goal is to hit all target objects by adjusting the angle and velocity of your projectile. Precision and timing are the keys to winning!
 
 ![Game Preview](https://i.postimg.cc/wB9xLnYS/2024-12-10-111910.png)
@@ -47,3 +47,9 @@ Try the playable demo here: [HitWithSpin Game Demo](https://abo-7mood.itch.io/hi
 ## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details. ⚖️
+
+#Story of this game 
+===========
+    How I create it?
+
+        
