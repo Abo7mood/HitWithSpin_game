@@ -24,10 +24,6 @@ Welcome to **Angle & Velocity Game**! 🎯 This is a fun and challenging physics
 - **C# Programming Language** 💻
 - **2D Physics System** 🌌
 
-## 🎮 Demo 🎮
-
-Try the playable demo here: [HitWithSpin Game Demo](https://abo-7mood.itch.io/hitwithspin)
-
 ## ⚙️ Installation ⚙️
 
 1. Clone the repository:
@@ -59,3 +55,8 @@ At the time, I worked primarily as a **2D game developer**, with limited interes
 The development process wasn’t without its challenges. I faced a few technical hurdles and incorporated some revisions based on the client's feedback. However, I stayed committed to delivering a product that met his expectations. 
 
 In the end, the hard work paid off. The client was thrilled with the result and left me a glowing **5-star review on Fiverr**, praising my dedication and expertise. This project remains a memorable milestone in my journey as a game developer.
+
+# 🎮 Demo 🎮
+--------------------------
+
+Try the playable demo here: [HitWithSpin Game Demo](https://abo-7mood.itch.io/hitwithspin)
