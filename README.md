@@ -48,9 +48,14 @@ Try the playable demo here: [HitWithSpin Game Demo](https://abo-7mood.itch.io/hi
 
 This project is licensed under the MIT License - see the LICENSE file for details. ⚖️
 
-# Story of this game 
+# Story of this game 📖
 --------------------------
 
-## How I create it? 📖
 
-        
+I created this game as a **Proof of Concept (POC)** for one of my clients on **Fiverr**. The project was completed on **5/6/2022** as part of his vision for a 2D game.
+
+At the time, I worked primarily as a **2D game developer**, with limited interest in multiplayer mechanics. My passion for **2D games** shaped the way I approached this project, allowing me to focus on creating a polished and engaging experience.
+
+The development process wasn’t without its challenges. I faced a few technical hurdles and incorporated some revisions based on the client's feedback. However, I stayed committed to delivering a product that met his expectations. 
+
+In the end, the hard work paid off. The client was thrilled with the result and left me a glowing **5-star review on Fiverr**, praising my dedication and expertise. This project remains a memorable milestone in my journey as a game developer.
