@@ -1,7 +1,7 @@
 
-# Angle & Velocity Challenge 🎯🚀
+# Angle & Velocity Game 🎯🚀
 --------------------------
-Welcome to **Angle & Velocity Challenge**! 🎯 This is a fun and challenging physics-based game where your goal is to hit all target objects by adjusting the angle and velocity of your projectile. Precision and timing are the keys to winning!
+Welcome to **Angle & Velocity Game**! 🎯 This is a fun and challenging physics-based game where your goal is to hit all target objects by adjusting the angle and velocity of your projectile. Precision and timing are the keys to winning!
 
 ![Game Preview](https://i.postimg.cc/wB9xLnYS/2024-12-10-111910.png)
 
