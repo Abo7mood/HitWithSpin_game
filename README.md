@@ -5,6 +5,9 @@ Welcome to **Angle & Velocity Game**! 🎯 This is a fun and challenging physics
 
 ![Game Preview](https://i.postimg.cc/wB9xLnYS/2024-12-10-111910.png)
 
+# Solo Project 🔥🔥🔥
+this project being made solo by me
+
 ## 🎮 Gameplay Details 🎮
 
 - **Operating System**: Windows 🖥️
