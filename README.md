@@ -41,7 +41,7 @@ this project being made solo by me
 
 - **Made with Unity**: A fun and educational game designed to demonstrate 2D physics concepts.
 - **Win the Game**: Your goal is to hit all the targets to achieve victory!
-- **Version**: Add your Unity version here.
+- **Version**: 2021.3.16f
 
 ## 📜 License
 
